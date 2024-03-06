@@ -12,7 +12,7 @@ h2,h3{
 } 
 
 .skill { 
-    background-color: red; 
+    background-color: blue; 
     color: white; 
     padding: 1%; 
     text-align: right; 
@@ -26,4 +26,7 @@ h2,h3{
 } 
 .progress2 { 
     width: 65%; 
+} 
+.progress3 { 
+    width: 70%; 
 } 
